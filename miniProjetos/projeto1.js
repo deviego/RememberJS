@@ -1,3 +1,6 @@
+//sobrescrevendo variaveis
+//sobrescrevendo
+
 let a = 'Vermelho';
 let b = 'Azul';
 
