@@ -1,6 +1,7 @@
 let corSite = 'azul'
 
 
+// função que sobre  escreve a variavel
 function resetaCor(cor){
     corSite = cor
 }
@@ -10,6 +11,8 @@ resetaCor('a cor agora é vermelho')
 console.log(corSite)
 
 // tipos de funções
+
+// função com parâmetro 
 
 function MultiplicaPorDois( value){
     return value *2
